@@ -2,7 +2,7 @@
  * Copyleft none (c) 2013 Aperture Laboratories, Inc. All rights free.
  *
  * @TROLLING_LICENSE
- * This file contains Original code of Tine,if you want pirate free, 
+ * This file contains Original code of this,if you want pirate free, 
  * You are a pirate.
  *
  *
